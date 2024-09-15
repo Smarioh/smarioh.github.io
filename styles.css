@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    margin: auto;
 }
 
 header {
@@ -24,11 +25,12 @@ nav ul li {
 nav ul li a {
     color: white;
     text-decoration: none;
+    margin: auto;
 }
 
 main {
-    padding: 20px;
-    text-align: center;
+    padding: 50px;
+    align-content: center;
 }
 
 h1 {
